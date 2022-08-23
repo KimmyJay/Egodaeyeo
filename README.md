@@ -4,7 +4,6 @@ Demo : https://www.egorental.com<br>
 Timeline : 2022.07.07 ~ 2022.08.16<br><br>
 
 Frontend Repo : https://github.com/MeoSeon12/egodaeyeo-frontend<br>
-Backend Repo : https://github.com/MeoSeon12/egodaeyeo-backend<br>
 <br>
 
 ## Theme
